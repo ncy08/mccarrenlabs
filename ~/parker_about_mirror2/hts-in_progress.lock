@@ -1,7 +1,0 @@
-Mirror in progress since Wed, 19 Feb 2025 15:57:02 .. please wait!
-httrack https://parker.studio -O ~/parker_about_mirror2 +*.parker.studio/* -v 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=26021
-UID=501
-GID=501
-START=1740005822
